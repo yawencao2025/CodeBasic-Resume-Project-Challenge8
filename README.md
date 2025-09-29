@@ -1,2 +1,2 @@
 # My-Data-Projects-
-This repo document all my data analysis and visualization project. 
+This repo documents all my data analysis and visualization project. 
