@@ -37,7 +37,7 @@ This project serves as a pilot for Mitron Bank’s credit card expansion. It ana
 ## Demographic Classification:   
 For demographic classification, a thorough customer demographic analysis was conducted using Tableau, and here are key findings presented in a visually engaging manner:
 
-! [CustomerAnalysis_all](images/CustomerAnalysis_all.png)
+![CustomerAnalysis_all](images/CustomerAnalysis_all.png)
 
 ### Total Customers:
 
@@ -61,19 +61,19 @@ For demographic classification, a thorough customer demographic analysis was con
 
 ### City-wise distribution:
 
-! [City_Segmentation](Images/City_Segmentation.png)
+![City_Segmentation](images/City_Segmentation.png)
 
 * Core Market (Mumbai): Our leadig hub with 1078 customers, showing a pronounced male skew. 
 * Secondary Hubs (Chennai, Banglore, Delhi NCR): Significant contributor to our customer base, each also demonstrating a male-skewed demographic. 
 
 ### Occupation Insight:
 
-! [Occupation_Insight](Images/Occupation_Insight.png)
+![Occupation_Insight](images/Occupation_Insight.png)
  * Salaried IT Employees represent our largest portion of our customer base (1294 cutsomers), this tech-centric base skews male(+148), confirming a strong initial foothold in this high-income demographic. This is our prime audience for aggresive cross-selling of premium cards with tech-focused perks, travel benefits and partner offers. 
  * The diversity in occupations, inlcuding freelancers and busines owners, presents an opportunity to tailor services for varied professional needs, such as unique cash flow and expense management needs. 
 
  ### Marital Status Summary: 
- ![Marital_Status](Images/Marital_Status.png)
+ ![Marital_Status](images/Marital_Status.png)
 
 * Dominant Segment – Married Customers: The vast majority of our base is married (3,136 | 78.4%), underscoring a core demand for family-oriented financial products and joint account features.
 
