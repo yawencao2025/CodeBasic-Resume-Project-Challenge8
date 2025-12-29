@@ -45,13 +45,13 @@ For demographic classification, a thorough customer demographic analysis was con
 
 ### Gender Segmentation:
 
-![Gender_Segmentation](images/Gender_Segmentation.png)
+<img src="images/Gender_Segmentation.png" width="250" alt="Gender Segmentation">
 
 * The total of 4000 customers includes 2597 males (64.93%) and 1403 females (35.08%), indicating a slightly male-dominated demographic. 
 
 ### Age Group Profiling: 
 
-![Age_Group](images/Age_Group.png)
+<img src="images/Age_Group.png" width="500" alt="Age_Group">
 
 * Primary Target Segment: The age group 23-36 emerges as our largest and most significant custoemr segment, with 1948 customers. This group, especially males, exhibits the strong presence (73.3%). The strategy team should prioritize developing and marketing cards with features that appeal to young and mid-career career male professionals(e.g., rewards on tech, dining, travel, or fitness). 
 
@@ -60,20 +60,18 @@ For demographic classification, a thorough customer demographic analysis was con
 * Balanced Niche Segment: Customer aged 21-24 and 45+ are smaller but exhbit relatively balanced gender distribution. This presents an opportunity for niche, university positioned products. For the younger group, consider starter cards with credit-builiding features. For 45+ group, focus on secruity, legacy benefits, and retirement lifestyle perks. 
 
 ### City-wise distribution:
-
-![City_Segmentation](images/City_Segmentation.png)
+<img src="images/City_Segmentation.png" width="500" alt="City_Segmentation">
 
 * Core Market (Mumbai): Our leadig hub with 1078 customers, showing a pronounced male skew. 
 * Secondary Hubs (Chennai, Banglore, Delhi NCR): Significant contributor to our customer base, each also demonstrating a male-skewed demographic. 
 
 ### Occupation Insight:
-
-![Occupation_Insight](images/Occupation_Insight.png)
+<img src="images/Occupation_Insight.png" width="500" alt="Occupation_Insight">
  * Salaried IT Employees represent our largest portion of our customer base (1294 cutsomers), this tech-centric base skews male(+148), confirming a strong initial foothold in this high-income demographic. This is our prime audience for aggresive cross-selling of premium cards with tech-focused perks, travel benefits and partner offers. 
  * The diversity in occupations, inlcuding freelancers and busines owners, presents an opportunity to tailor services for varied professional needs, such as unique cash flow and expense management needs. 
 
- ### Marital Status Summary: 
- ![Marital_Status](images/Marital_Status.png)
+ ### Marital Status Summary:
+ <img src="images/Marital_Status.png" width="250" alt="Marital_Status">
 
 * Dominant Segment – Married Customers: The vast majority of our base is married (3,136 | 78.4%), underscoring a core demand for family-oriented financial products and joint account features.
 
